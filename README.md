@@ -1,4 +1,8 @@
-MSP_workshops
+MSP Workshops
 =============
 
-A compilation of Microsoft Student Partner workshops used throughout the year
+by: Dylan Thiemann
+-------------
+
+
+A compilation of Microsoft Student Partner workshops used throughout the year at the University of Iowa
